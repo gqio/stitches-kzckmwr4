@@ -1,0 +1,17 @@
+{
+  "name": "@backlight-dev/gq-ws.stitches-kzckmwr4",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve 5x9q2VqhcaQaq2AbpFUH --open"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "@stitches/react": "*",
+    "@mdx-js/react": "^1",
+    "@divriots/dockit-react": "*"
+  }
+}
