@@ -10,3 +10,5 @@ export default {
 export const button_primary = () => <Button>button</Button>;
 
 export const button_secondary = () => <Button type="secondary">button</Button>;
+
+export const button_3 = () => <Button type="secondary">button</Button>;
